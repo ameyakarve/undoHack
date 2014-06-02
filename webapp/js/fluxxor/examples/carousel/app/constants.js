@@ -1,6 +1,0 @@
-module.exports = {
-  NEXT_IMAGE: "NEXT_IMAGE",
-  PREV_IMAGE: "PREV_IMAGE",
-  SEL_IMAGE:  "SEL_IMAGE",
-  ADD_IMAGE:  "ADD_IMAGE"
-};

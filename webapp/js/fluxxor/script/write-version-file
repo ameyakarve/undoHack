@@ -1,6 +1,0 @@
-#!/usr/bin/env node
-
-var fs = require("fs"),
-    pkg = require("../package.json");
-
-fs.writeFileSync("version.js", "module.exports = " + JSON.stringify(pkg), "utf8");
